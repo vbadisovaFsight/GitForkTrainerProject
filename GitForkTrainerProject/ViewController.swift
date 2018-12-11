@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         print("Hello World! I am open source project")
+        print("Hello again, now I became forked project")
     }
 
 
